@@ -1,1 +1,3 @@
 Hello, this is first practice for git
+I added some changes. 
+Please check my changes.
